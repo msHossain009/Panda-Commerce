@@ -18,4 +18,43 @@
     border-radius: 8px;
     padding: 10px 25px;
     cursor: pointer;
+    margin-top: 5px;
+}
+.cat1{
+    background-image: linear-gradient(to right, rgb(255, 72, 0) 0%, rgb(255, 145, 0) 100%);
+    padding: 20px 30px;
+    color: #fff;
+    border-radius: 15px;
+}
+.cat2{
+    background-image: linear-gradient(to left, #f872a7 0%, #ff136f 100%);
+    padding: 20px 30px;
+    color: #fff;
+    border-radius: 15px;
+}
+.cat3{
+    background-image: linear-gradient(to right, rgb(0, 98, 255) 0%, rgb(73, 146, 230));
+    padding: 20px 30px;
+    color: #fff;
+    border-radius: 15px;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 7px 7px 10px lightgray;
+}
+.middle{
+    text-align: center;
+    margin-bottom: 5px;
+}
+#contact{
+    height: 350px;
+}
+#contact h6{
+    color: grey;
+}
+footer{
+    text-align: center;
+    font-size: 15px;
+    color: grey;
 }
